@@ -1,0 +1,7 @@
+WIDTH = 900
+
+HEIGHT = 500
+
+BAR_COUNT = 50
+
+DELAY = 30
